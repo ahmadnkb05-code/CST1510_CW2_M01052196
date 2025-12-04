@@ -1,7 +1,6 @@
 """
 models.py
-Simple dataclasses + CRUD functions that call DatabaseManager.
-Kept small and readable for viva explanations.
+Simple dataclasses + CRUD functions that call databasemanager.
 """
 
 from dataclasses import dataclass
